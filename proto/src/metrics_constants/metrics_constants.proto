@@ -7438,5 +7438,9 @@ message MetricsEvent {
 
     // ARROW Metrics
     ARROW = 2772;
+
+    // ATLANTIS Metrics
+    ATLANTIS = 2773;
+
   }
 }
